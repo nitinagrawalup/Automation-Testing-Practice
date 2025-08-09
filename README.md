@@ -1,4 +1,14 @@
 # Automation-Testing-Practice
+
+ Choose a Real-World App to Test
+Pick an application people understand (recruiters relate to known brands):
+<li>Amazon</li>
+<li>Swiggy</li>
+<li>Zomato</li>
+<li>BookMyShow</li>
+<li>Flipkart</li>
+<li>Netflix clone (public repo)</li>
+
 Project Plan Structure
 1. Project Overview
 "Testing the core user flows of Swiggy-like food delivery platform."
@@ -11,11 +21,11 @@ Project Plan Structure
 <li>Checkout Process</li>
 <li>Order History</li>
 4. Manual Testing Deliverables
-✅ Test Plan (doc)
-✅ Test Scenarios & Test Cases (Excel or TestRail)
-✅ Bug Reports (in JIRA or spreadsheet)
-✅ Screenshots & test data
-✅ Edge cases and boundary testing
+<li>Test Plan (doc)</li>
+<li>Test Scenarios & Test Cases (Excel or TestRail)</li>
+<li>Bug Reports (in JIRA or spreadsheet)</li>
+<li>Screenshots & test data</li>
+<li>Edge cases and boundary testing</li>
 5. API Testing
 <li>Use Postman</li>
 <li>Test endpoints like login, search, and order placement</li>
@@ -30,10 +40,10 @@ Project Plan Structure
 This is a QA testing portfolio project focused on the critical workflows of a Swiggy-like food delivery app. It covers manual testing, API testing, and automation basics using industry-standard tools.
 
 🔍 What Was Tested
-✅ User Registration & Login
-✅ Restaurant Search
-✅ Add to Cart & Checkout
-✅ Order History & Profile Management
+<li>User Registration & Login</li>
+<li>Restaurant Search</li>
+<li>Add to Cart & Checkout</li>
+<li>Order History & Profile Management</li>
 
 Tools Used
 | Type           | Tools                      |
@@ -45,31 +55,31 @@ Tools Used
 | CI/CD          | GitHub Actions             |
 
 📄 Manual Testing Artifacts
-Test Plan
-Test Cases Excel
-Bug Report Sheet
-Edge Case & BVA Scenarios
-Screenshots of failed test cases
+<li>Test Plan</li>
+<li>Test Cases Excel</li>
+<li>Bug Report Sheet</li>
+<li>Edge Case & BVA Scenarios</li>
+<li>Screenshots of failed test cases</li>
 
 🔌 API Testing
-Public APIs tested using Postman
-Collection File Link
-Sample requests: Login, Search, Place Order
+<li>Public APIs tested using Postman</li>
+<li>Collection File Link</li>
+<li>Sample requests: Login, Search, Place Order</li>
 
 🤖 Automation Scripts
-Login flow automated using Playwright
-Add to Cart + Checkout flow automated
-Code Repository
-CI/CD Pipeline: GitHub Actions configured for every push
+<li>Login flow automated using Playwright</li>
+<li>Add to Cart + Checkout flow automated</li>
+<li>Code Repository</li>
+<li>CI/CD Pipeline: GitHub Actions configured for every push</li>
 
 🎯 What I Learned
-Thinking from the user’s perspective
-Writing maintainable test cases
-Managing test data
-Handling UI and API test scenarios
-CI/CD basics with GitHub Actions
+<li>Thinking from the user’s perspective</li>
+<li>Writing maintainable test cases</li>
+<li>Managing test data</li>
+<li>Handling UI and API test scenarios</li>
+<li>CI/CD basics with GitHub Actions</li>
 
 🙋‍♂️ My Role
-I independently planned and executed this project
-Covered both functional and edge case testing
-Demonstrated test documentation + automation + CI/CD in one place
+<li>I independently planned and executed this project</li>
+<li>Covered both functional and edge case testing</li>
+<li>Demonstrated test documentation + automation + CI/CD in one place</li>

@@ -45,7 +45,7 @@ This is a QA testing portfolio project focused on the critical workflows of a Sw
 <li>Add to Cart & Checkout</li>
 <li>Order History & Profile Management</li>
 
-Tools Used
+🔧 Tools Used
 | Type           | Tools                      |
 | -------------- | -------------------------- |
 | Manual Testing | Excel, TestRail, JIRA      |
